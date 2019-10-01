@@ -1,7 +1,7 @@
 # OS-Project
 VIT OS Project
 
-Enhanced Shell Interpreter for Ubuntu/Linux OSs
+Enhanced Shell Interpreter for Ubuntu/Linux Operating Systems
 
 Libraries needed:
 string.h
